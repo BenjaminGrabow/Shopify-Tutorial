@@ -1,8 +1,14 @@
 {
-  "name": "Shopify-Tutorial",
+  "name": "shopify-tutorial",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,16 +16,10 @@
     "type": "git",
     "url": "git+https://github.com/BenjaminGrabow/Shopify-Tutorial.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Benjamin Grabow",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/BenjaminGrabow/Shopify-Tutorial/issues"
   },
-  "homepage": "https://github.com/BenjaminGrabow/Shopify-Tutorial#readme",
-  "dependencies": {
-    "next": "^9.4.4",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
-  }
+  "homepage": "https://github.com/BenjaminGrabow/Shopify-Tutorial#readme"
 }
